@@ -53,7 +53,7 @@ pipeline {
                     httpMode: 'POST',
                     contentType: 'APPLICATION_JSON',
                     requestBody: groovy.json.JsonOutput.toJson(payload),
-                    url: 'https://discordapp.com/api/webhooks/1381676018691084298/TWoAiwpE_3MpSoXFvcIakxiqfXFQL2G8Kq2vSz-HwspOdeTZ7RoXq9Rw9OQiMneQeboJ
+                    url: 'https://discordapp.com/api/webhooks/1381676018691084298/TWoAiwpE_3MpSoXFvcIakxiqfXFQL2G8Kq2vSz-HwspOdeTZ7RoXq9Rw9OQiMneQeboJ'
                 )
             }
         }
